@@ -3,5 +3,5 @@ server:
 
 spring:
   application:
-    welcomeMessage: Welcome to production
+    welcomeMessage: Welcome to production now
     XApiKey: pro-123
